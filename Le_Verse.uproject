@@ -14,14 +14,6 @@
 		{
 			"Name": "MultiUserClient",
 			"Enabled": true
-		},
-		{
-			"Name": "RiderSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "RiderLink",
-			"Enabled": false
 		}
 	]
 }
